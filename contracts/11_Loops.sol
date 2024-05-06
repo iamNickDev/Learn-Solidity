@@ -12,7 +12,6 @@ contract Loop {
                 break;
             }
         }
-
         uint256 j;
         while (j < 10) {
             j++;
